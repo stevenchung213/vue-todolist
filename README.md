@@ -1,3 +1,3 @@
-##Vue - To Do List
+## Vue - To Do List
 
-###styled with semantic-ui
+### styled with semantic-ui
